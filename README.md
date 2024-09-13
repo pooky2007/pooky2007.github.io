@@ -56,9 +56,6 @@ Useless list:
 
 
 
-</ul>	
-
-
 
 <h2 class="random-text">
 random text right here
@@ -76,5 +73,4 @@ gif (crazy)
 <img src="https://media.tenor.com/WdMAHbF-yVYAAAAM/think-about-it-reece-simpson.gif">  
 
 
-</body>
- </html>
+
