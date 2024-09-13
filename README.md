@@ -60,12 +60,6 @@ Useless list:
 
 
 
-<h1> 
-Picture of Ash:
-</h1>
-	
-<img src="file:///C:/Users/user/Pictures/yeehaw.png" alt="picture of ash, a pretty cat" width="300"> 
-
 
 
 <h2 class="random-text">
