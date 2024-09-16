@@ -2,6 +2,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>huh????</title>
+		<link rel="icon" href="https://styles.redditmedia.com/t5_bt15cy/styles/profileIcon_dlr8r1027b8d1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=52fb17b33e9673e13617e6b0030c47411ae776fa" type="image/x-icon"/>
 		<style>
 		
 		h1 {
