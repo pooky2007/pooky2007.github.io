@@ -74,8 +74,6 @@ gif (crazy)
 
 <br>
 
-<a href="https://scratch.mit.edu/users/pooky2007/">
-	My Scratch Account
-</a>
+
 
 <img src="https://external-preview.redd.it/xkXOL-4QA719fGBy8wECuc3qMucxcl5LZurD9RRfzes.jpg?width=640&crop=smart&auto=webp&s=5fc2f82c06fcb3652e8bd8059bd57b12645630e9">
