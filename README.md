@@ -76,4 +76,4 @@ gif (crazy)
 
 
 
-<img src="https://external-preview.redd.it/xkXOL-4QA719fGBy8wECuc3qMucxcl5LZurD9RRfzes.jpg?width=640&crop=smart&auto=webp&s=5fc2f82c06fcb3652e8bd8059bd57b12645630e9">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-TlA996OEcw?si=J5LPu_h5T1YYRmvZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
