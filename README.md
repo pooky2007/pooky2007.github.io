@@ -54,7 +54,7 @@ Useless list:
 <li> 2
 <li> 3
 
-</ul>
+</li>
 
 
 <h2 class="random-text">
