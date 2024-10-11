@@ -80,3 +80,7 @@ gif (crazy)
 
  
 <iframe src="https://scratch.mit.edu/projects/1077625712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<br>
+
+<img src="https://www.bu.edu/files/2024/08/Hey-BU-Blog-Headers.jpg">
