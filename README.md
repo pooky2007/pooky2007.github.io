@@ -81,7 +81,7 @@ gif (crazy)
  
 <iframe src="https://scratch.mit.edu/projects/1077625712/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen="true"></iframe> <iframe src="https://scratch.mit.edu/projects/836839294/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen="true"></iframe>
 
-<iframe width="560" height="315" src="https://musiclab.chromeexperiments.com/Song-Maker/embed/6196190871420928" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://musiclab.chromeexperiments.com/Song-Maker/embed/6196190871420928" frameborder="0" allowfullscreen></iframe> <iframe width="560" height="315" src="https://musiclab.chromeexperiments.com/Song-Maker/embed/5472017006067712" frameborder="0" allowfullscreen></iframe>
 
 <br>
 
