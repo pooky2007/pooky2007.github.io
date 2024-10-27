@@ -87,4 +87,4 @@ gif (crazy)
 
 <img src="https://www.bu.edu/files/2024/08/Hey-BU-Blog-Headers.jpg">
 
-<a href="[file:///C:/Users/user/Documents/KA-projects.HTML](https://pooky2007.github.io/music)">Music</a>
+<a href="https://pooky2007.github.io/music">Music</a>
