@@ -52,7 +52,7 @@ stuff:
 </h1>
 <ul>
 
-<li> <a href="README.md">Home</a>
+<li> <a href="https://pooky2007.github.io/">Home</a>
 <li> <a href="music.html">Music</a>
 <li> <a href="placeholder">nothing</a>
 
