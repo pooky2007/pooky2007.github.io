@@ -52,9 +52,9 @@ stuff:
 </h1>
 <ul>
 
+<li> <a href="README.md">Home</a>
 <li> <a href="music.html">Music</a>
-<li> 2
-<li> 3
+<li> <a href="placeholder">nothing</a>
 
 </li>
 
