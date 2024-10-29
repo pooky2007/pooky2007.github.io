@@ -52,7 +52,7 @@ stuff:
 </h1>
 <ul>
 
-<li> <a href"music.html">Music</a>
+<li> <a href:"music.html">Music</a>
 <li> 2
 <li> 3
 
