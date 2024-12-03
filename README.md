@@ -45,7 +45,14 @@
 	</head>
 	<body>
 
- 
+ <header>
+
+<a href="https://pooky2007.github.io/" class="link">Home</a>
+<a href="music.html" class="link">Music</a>
+<a href="placeholder" class="link">nothing</a>
+
+  
+ </header>
 
 <h1 id="useless-list">
 stuff:
