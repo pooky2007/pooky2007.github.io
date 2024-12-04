@@ -15,7 +15,7 @@
 
 		body {
 			background-color: rgb(0,0,0);
-   			background-image: url('IMG_20241201_191024186-Copy.jpg');
+   			background-image: url('[IMG_20241201_191024186-Copy.jpg](https://github.com/pooky2007/pooky2007.github.io/blob/d4f81e1aef3830cdf18d4f5a764a628435308300/IMG_20241201_191024186%20-%20Copy.jpg)');
 		}
 		
 		ul {
