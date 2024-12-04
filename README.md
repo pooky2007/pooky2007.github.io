@@ -30,7 +30,10 @@
 			color: rgb(0,255,255);
 		}
 		
-		
+		header {
+			size: 150%;
+  
+  		}
 		
 		
 		
@@ -53,17 +56,6 @@
 
   
  </header>
-
-<h1 id="useless-list">
-stuff:
-</h1>
-<ul>
-
-<li> <a href="https://pooky2007.github.io/" class="link">Home</a>
-<li> <a href="music.html" class="link">Music</a>
-<li> <a href="placeholder" class="link">nothing</a>
-
-</li>
 
 
 
