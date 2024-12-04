@@ -31,7 +31,7 @@
 		}
 		
 		header {
-			size: 150%;
+			font-size: 150%;
   
   		}
 		
