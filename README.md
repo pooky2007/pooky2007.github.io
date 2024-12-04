@@ -15,7 +15,7 @@
 
 		body {
 			background-color: rgb(0,0,0);
-   			background-image: url(...);
+   			background-image: url('IMG_20241201_191024186 - Copy.jpg');
 		}
 		
 		ul {
