@@ -56,7 +56,7 @@
 <a href="games.html" class="link">Games</a>
 <a href="blackscreen.html" class="link">Black Screen</a>
 
-<img src="https://static.wikia.nocookie.net/penguinsofmadagascar/images/f/f8/Ahkjmort.png/revision/latest?cb=20190727144938"></img>
+<br><img src="177723c4fdcbf0e13f74d6ea47e22c44.jpg"></img>
 
   
  </header>
