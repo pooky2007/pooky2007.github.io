@@ -54,6 +54,7 @@
 <a href="https://pooky2007.github.io/" class="link">Home</a>
 <a href="music.html" class="link">Music</a>
 <a href="games.html" class="link">Games</a>
+<a href="blackscreen.html" class="link">Black Screen</a>
 
 <img src="https://img.freepik.com/premium-vector/christmas-lights-isolated-black-background-set-xmas-glowing-garland-with-colored-bulbs-transparent-light-vector-illustration_434359-32.jpg"></img>
 
