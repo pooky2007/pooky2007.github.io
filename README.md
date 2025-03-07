@@ -56,7 +56,7 @@
 <a href="games.html" class="link">Games</a>
 <a href="blackscreen.html" class="link">Black Screen</a>
 
-<img src="https://img.freepik.com/premium-vector/christmas-lights-isolated-black-background-set-xmas-glowing-garland-with-colored-bulbs-transparent-light-vector-illustration_434359-32.jpg"></img>
+<img src="https://static.wikia.nocookie.net/penguinsofmadagascar/images/f/f8/Ahkjmort.png/revision/latest?cb=20190727144938"></img>
 
   
  </header>
